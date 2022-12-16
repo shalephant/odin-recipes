@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #F8B195;
+    color: #355C7D;
+}
+
+.ingr {
+    text-align: left;
+}
+
+.prep {
+    text-align: left;
+}
